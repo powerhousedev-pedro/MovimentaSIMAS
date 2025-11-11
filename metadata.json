@@ -1,0 +1,5 @@
+{
+  "name": "Movimenta SIMAS",
+  "description": "Uma interface para facilitar a troca de lotação entre funcionários do SIMAS. Conectado a uma planilha Google Sheets, permite visualizar vagas, demonstrar interesse e iniciar negociações quando há interesse mútuo.",
+  "requestFramePermissions": []
+}
